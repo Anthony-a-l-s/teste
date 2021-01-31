@@ -6,7 +6,8 @@
 using namespace std;
 int main()
 {
-     cout<<"ola mundo"<<endl;
-     int n = 10;
+     int n;
+     cout<<"Digite um numero: "<<endl;
+     cin>>n;
      cout<<n<<endl;
 }
